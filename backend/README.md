@@ -15,8 +15,9 @@ This application is designed to facilitate user interactions with a structured c
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone `https://github.com/phonixcode/learning-app.git`
+   cd `learning-app`
+   cd `backend`
    ```
 
 2. **Install dependencies**:

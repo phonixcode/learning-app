@@ -13,8 +13,9 @@ This frontend application is built using React with TypeScript and Tailwind CSS.
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+    git clone `https://github.com/phonixcode/learning-app.git`
+   cd `learning-app`
+   cd `frontend`
    ```
 
 2. **Install dependencies**:

@@ -34,8 +34,8 @@ This project is set up to run using Docker. Follow these instructions to get bot
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+    git clone `https://github.com/phonixcode/learning-app.git`
+   cd `learning-app`
    ```
 
 2. **Build and start the containers**:
