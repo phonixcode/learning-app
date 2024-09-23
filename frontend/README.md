@@ -59,3 +59,16 @@ Key features include:
 - **CORS Configuration**: The backend API is configured to allow requests from the frontend's origin to avoid CORS issues.
 - **User Roles**: The frontend logic handles different user roles based on the responses from the backend, enabling role-specific features.
 - **Error Handling**: Basic error handling is implemented for API requests, with plans for further refinements based on user feedback.
+
+## Login Instructions
+
+You can log in to the application using the following credentials:
+
+### Admin Login
+- **Username:** admin
+- **Password:** password
+
+### Leaner Login
+- Use your registered username and password.
+
+Make sure to create an account if you're logging in as a leaner.
